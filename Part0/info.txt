@@ -1,0 +1,9 @@
+HTTP Get
+
+El servidor y el navegador web se comunican entre sí mediante el protcolo HTTP. La pestaña "Network" muestra como se comunican el navegador y el servidor.
+
+Callback function
+Es una función que se pasa a otra función como un argumento, que luego se invoca dentro de la función externa para completar algún tipo de rutina o acción. 
+
+El DOM 
+Es una API que permite la modificación programática de los elementos correspondientes a páginas web.
